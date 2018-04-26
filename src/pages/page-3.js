@@ -3,9 +3,8 @@ import Link from 'gatsby-link'
 
 const SecondPage = () => (
   <div>
-    <h1>Recién empezada</h1>
+    <h2>Porque hacer las cosas de cero... es lo suyo</h2>
     <Link to="/">...</Link>
-    <Link to="/page-3/">Porque...</Link>
   </div>
 )
 
