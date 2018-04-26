@@ -1,11 +1,11 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
-const SecondPage = () => (
+const ThirdPage = () => (
   <div>
-    <h2>Porque hacer las cosas de cero... es lo suyo</h2>
-    <Link to="/">...</Link>
+    <h1>... hacer las cosas de cero...</h1>
+    <Link to="/page-4/">es...</Link>
   </div>
 )
 
-export default SecondPage
+export default ThirdPage
