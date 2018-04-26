@@ -3,7 +3,7 @@ import Link from 'gatsby-link'
 
 const FourthPage = () => (
   <div>
-    <h1>... es lo suyo!</h1>
+    <h1>... a veces, es lo suyo!</h1>
     <Link to="/">...</Link>
   </div>
 )
